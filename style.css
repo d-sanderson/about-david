@@ -1,0 +1,41 @@
+
+body {
+	background-color: slateblue;
+}
+h1 {
+	text-align: center;
+	margin: auto;
+}
+
+#bio {
+	text-align: center;
+	text-wrap: normal;
+	font-size: medium;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 25%;
+	height: auto;
+}
+
+img:hover {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+	height: auto;
+}
+.stateofbirth {
+	background-color: purple;
+}
+
+.education {
+	background-color: burlywood;
+}
+
+#activities {
+	background-color: mediumpurple;
+}
