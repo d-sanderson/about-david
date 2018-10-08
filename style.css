@@ -1,9 +1,10 @@
 
+
 body {
-	background-color: slateblue;
+	background-color: gold;
 }
 h1 {
-	text-align: center;
+	text-align: left;
 	margin: auto;
 }
 
@@ -29,13 +30,17 @@ img:hover {
 	height: auto;
 }
 .stateofbirth {
-	background-color: purple;
+	background-color: orangered;
 }
 
 .education {
-	background-color: burlywood;
+	background-color: lightsalmon;
 }
 
 #activities {
-	background-color: mediumpurple;
+	background-color: goldenrod;
+}
+#philosophy {
+background-color: dodgerblue;
+	text-decoration-color: crimson;
 }
